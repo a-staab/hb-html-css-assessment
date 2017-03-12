@@ -1,0 +1,13 @@
+.accessible {
+    background-color: yellow;
+}
+
+#emphasis {
+    font-weight: bold;
+}
+
+div {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 6px;
+}
